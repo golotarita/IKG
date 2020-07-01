@@ -29,5 +29,7 @@
 
 [ЛР№4](https://github.com/golotarita/OpenGL/tree/master/%D0%9B%D0%A04)
 
+[ИСР](https://github.com/golotarita/OpenGL/blob/master/Nekommerch-2-1364298-ORF.jpg)
+
 
 
