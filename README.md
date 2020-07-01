@@ -31,5 +31,5 @@
 
 [ИСР](https://github.com/golotarita/OpenGL/blob/master/Nekommerch-2-1364298-ORF.jpg)
 
-
+[ВСР](https://github.com/golotarita/IKG/blob/master/%D0%92%D0%A1%D0%A0)
 
