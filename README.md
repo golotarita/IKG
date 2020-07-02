@@ -29,6 +29,8 @@
 
 [ЛР№4](https://github.com/golotarita/OpenGL/tree/master/%D0%9B%D0%A04)
 
+[ЛР№5 (реферат)](https://github.com/golotarita/IKG/blob/master/%D0%A0%D0%B5%D1%84%D0%B5%D1%80%D0%B0%D1%82%20%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20%D0%93%D0%BE%D0%BB%D0%BE%D1%82%D0%B0%20%D0%9C.%D0%90.%20%D0%98%D0%92%D0%A23.docx)
+
 [ИСР](https://github.com/golotarita/OpenGL/blob/master/Nekommerch-2-1364298-ORF.jpg)
 
 [ВСР](https://github.com/golotarita/IKG/blob/master/%D0%92%D0%A1%D0%A0)
